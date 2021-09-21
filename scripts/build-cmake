@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+cmake -H. -Bbuild
+make -C build

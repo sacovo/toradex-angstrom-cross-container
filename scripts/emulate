@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+qemu-arm -L /usr/local/oecore-x86_64/sysroots/armv7at2hf-neon-angstrom-linux-gnueabi "$@"
